@@ -18,7 +18,7 @@
 <details open>
 <summary>
 
-**ML/DL系统基础**
+##### ML/DL系统基础
 
 </summary>
 
@@ -36,7 +36,7 @@
 <details open>
 <summary>
 
-**DL系统框架**⚡
+##### DL系统框架⚡
 
 </summary>
 
@@ -48,7 +48,7 @@
 <details open>
 <summary>
 
-**分布式训练框架**⚡
+##### 分布式训练框架⚡
 
 </summary>
 
@@ -61,7 +61,7 @@
 <details open>
 <summary>
 
-**分布式训练综述**⚡
+##### 分布式训练综述⚡
 
 </summary>
 
@@ -72,7 +72,7 @@
 <details open>
 <summary>
 
-**数据并行(All-Reduce based)⚡**
+##### 数据并行(All-Reduce based)⚡
 
 </summary>
 
@@ -83,7 +83,7 @@
 <details open>
 <summary>
 
-**ZeRO/FSDP并行**⚡
+##### ZeRO/FSDP并行⚡
 
 </summary>
 
@@ -94,7 +94,7 @@
 <details open>
 <summary>
 
-**流水并行**⚡
+##### 流水并行⚡
 
 </summary>
 
@@ -106,7 +106,7 @@
 <details open>
 <summary>
 
-**张量并行/算子并行**⚡
+##### 张量并行/算子并行⚡
 
 </summary>
 
@@ -117,7 +117,7 @@
 <details open>
 <summary>
 
-**3D并行**⚡
+##### 3D并行⚡
 
 </summary>
 
@@ -127,7 +127,7 @@
 <details open>
 <summary>
 
-**自动并行**⚡
+##### 自动并行⚡
 
 </summary>
 
@@ -139,7 +139,7 @@
 <details open>
 <summary>
 
-**Tensor Annotation**💎
+##### Tensor Annotation💎
 
 </summary>
 
@@ -150,7 +150,7 @@
 <details open>
 <summary>
 
-**专家并行/MoE训练**💎
+##### 专家并行/MoE训练💎
 
 </summary>
 
@@ -162,7 +162,7 @@
 <details open>
 <summary>
 
-**序列并行/长窗口并行**💎
+##### 序列并行/长窗口并行💎
 
 </summary>
 
@@ -176,7 +176,7 @@
 <details open>
 <summary>
 
-**显存节约**💎
+##### 显存节约💎
 
 </summary>
 
@@ -187,7 +187,7 @@
 <details open>
 <summary>
 
-**算子融合优化**💎
+##### 算子融合优化💎
 
 </summary>
 
@@ -198,7 +198,7 @@
 <details open>
 <summary>
 
-**长序列训练**💡
+##### 长序列训练💡
 
 </summary>
 
@@ -210,7 +210,7 @@
 <details open>
 <summary>
 
-**多模态训练**💡
+##### 多模态训练💡
 
 </summary>
 
@@ -222,7 +222,7 @@
 <details open>
 <summary>
 
-**异构训练**💡
+##### 异构训练💡
 
 </summary>
 
@@ -236,7 +236,7 @@
 <details open>
 <summary>
 
-**LLM服务系统框架**
+##### LLM服务系统框架**
 </summary>
 
 - 🛠️ [vLLM](https://github.com/vllm-project/vllm)
@@ -245,7 +245,7 @@
 <details open>
 <summary>
 
-**综述**⚡
+##### 综述⚡
 </summary>
 
 - 📄 A Survey on Efficient Inference for Large Language Models
@@ -255,7 +255,7 @@
 <details open>
 <summary>
 
-**Batching**⚡
+##### Batching⚡
 </summary>
 
 - 📄 Orca: A Distributed Serving System for Transformer-Based Generative Models
@@ -264,7 +264,7 @@
 <details open>
 <summary>
 
-**模型并行**⚡
+##### 模型并行⚡
 </summary>
 
 - 📄 AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving
@@ -273,7 +273,7 @@
 <details open>
 <summary>
 
-**显存管理**⚡
+##### 显存管理⚡
 </summary>
 
 - 📄 Efficient Memory Management for Large Language Model Serving with PagedAttention
@@ -282,7 +282,7 @@
 <details open>
 <summary>
 
-**投机推理**⚡
+##### 投机推理⚡
 </summary>
 
 - 📄 Fast Inference from Transformers via Speculative Decoding
@@ -291,7 +291,7 @@
 <details open>
 <summary>
 
-**Prefix Sharing**⚡
+##### Prefix Sharing⚡
 <summary>
 
 - 📄 SGLang: Efficient Execution of Structured Language Model Programs
@@ -300,7 +300,7 @@
 <details open>
 <summary>
 
-**PD分离**💎
+##### PD分离💎
 </summary>
 
 - 📄 DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving
@@ -312,7 +312,7 @@
 <details open>
 <summary>
 
-**Chunked Prefill**💎
+##### Chunked Prefill💎
 </summary>
 
 - 📄 Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve
@@ -321,7 +321,7 @@
 <details open>
 <summary>
 
-**模型压缩**💎
+##### 模型压缩💎
 </summary>
 
 - 📄 GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
