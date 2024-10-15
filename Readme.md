@@ -64,18 +64,18 @@
 
 </summary>
 
-- [GNN basics](#docs/graphs/Readme.md#GNN-basics)
-- [Heterogeneous GNN](#docs/graphs/Readme.md#Heterogeneous-GNN)
-- [Graph condensation](#docs/graphs/Readme.md#Graph-condensation)
-- [Homogeneous](#docs/graphs/Readme.md#Homogeneous)
-- [Graph condensation](#docs/graphs/Readme.md#Graph-condensation)
-- [Heterogeneous](#docs/graphs/Readme.md#Heterogeneous)
-- [Graph Structure Learning](#docs/graphs/Readme.md#Graph-Structure-Learning)
-- [Graph Data Augmentation](#docs/graphs/Readme.md#Graph-Data-Augmentation)
-- [GNN System](#docs/graphs/Readme.md#GNN-System)
-- [GNN+LLM](#docs/graphs/Readme.md#GNN+LLM)
-- [GNN 数据标注](#docs/graphs/Readme.md#GNN-数据标注)
-- [Scalable GNN (GNN Acceleration)](#docs/graphs/Readme.md#Scalable-GNN-(GNN-Acceleration))
+- [GNN basics](docs/graphs/Readme.md#GNN-basics)
+- [Heterogeneous GNN](docs/graphs/Readme.md#Heterogeneous-GNN)
+- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
+- [Homogeneous](docs/graphs/Readme.md#Homogeneous)
+- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
+- [Heterogeneous](docs/graphs/Readme.md#Heterogeneous)
+- [Graph Structure Learning](docs/graphs/Readme.md#Graph-Structure-Learning)
+- [Graph Data Augmentation](docs/graphs/Readme.md#Graph-Data-Augmentation)
+- [GNN System](docs/graphs/Readme.md#GNN-System)
+- [GNN+LLM](docs/graphs/Readme.md#GNN+LLM)
+- [GNN 数据标注](docs/graphs/Readme.md#GNN-数据标注)
+- [Scalable GNN (GNN Acceleration)](docs/graphs/Readme.md#Scalable-GNN-(GNN-Acceleration))
 </details>
 
 <details open>
