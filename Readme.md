@@ -102,8 +102,6 @@
 - [Multimodal LLM](docs/dcml/Readme.md#Multimodal-LLM)
 - [Multimodal & Alignment入门+选方向](docs/dcml/Readme.md#Multimodal-&-Alignment入门+选方向)
 - [RAG](docs/dcml/Readme.md#RAG)
-- [带着思考看论文](docs/dcml/Readme.md#带着思考看论文)
-- [看论文汇报模板](docs/dcml/Readme.md#看论文汇报模板)
 </details>
 
 <details open>
