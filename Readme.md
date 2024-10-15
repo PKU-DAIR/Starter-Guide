@@ -19,20 +19,19 @@
 <details open>
 <summary>
 
-### 系统方向 [🔗]()
+### 系统方向 [🔗](docs/systems/Readme.md)
 
 </summary>
 
 - [ML/DL系统框架]()
 - [分布式训练]()
 - [LLM推理服务]()
-- [Diffusion（文生图、文生视频）推理服务]()
 </details>
 
 <details open>
 <summary>
 
-### AutoML方向 [🔗]()
+### AutoML方向 [🔗](docs/autoML/Readme.md)
 
 </summary>
 
@@ -44,7 +43,7 @@
 <details open>
 <summary>
 
-### Database方向 [🔗]()
+### Database方向 [🔗](docs/database/Readme.md)
 
 </summary>
 
@@ -61,7 +60,7 @@
 <details open>
 <summary>
 
-### Graph方向 [🔗]()
+### Graph方向 [🔗](docs/graphs/Readme.md)
 
 </summary>
 
@@ -82,7 +81,7 @@
 <details open>
 <summary>
 
-### AI Agent方向 [🔗]()
+### AI Agent方向 [🔗](docs/aiAgents/Readme.md)
 
 </summary>
 
@@ -92,7 +91,7 @@
 <details open>
 <summary>
 
-### Data-Centric & LLM方向 [🔗]()
+### Data-Centric & LLM方向 [🔗](docs/dcml/Readme.md)
 
 </summary>
 
@@ -110,7 +109,7 @@
 <details open>
 <summary>
 
-### 扩散模型方向 [🔗]()
+### 扩散模型方向 [🔗](docs/diffusion/Readme.md)
 
 </summary>
 
@@ -122,6 +121,7 @@
 - [3D]()
 - [4D]()
 - [Graph / molecule]()
+- [Diffusion（文生图、文生视频）推理服务]()
 </details>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved

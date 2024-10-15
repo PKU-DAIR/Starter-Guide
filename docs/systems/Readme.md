@@ -11,9 +11,9 @@
     </p>
 </p>
 
-### ML/DL系统框架
-
 > 注:⚡为**基础必读**,💎为**基础选读**,💡为**进阶阅读**
+
+### ML/DL系统框架
 
 <details open>
 <summary>
@@ -292,7 +292,7 @@
 <summary>
 
 ##### Prefix Sharing⚡
-<summary>
+</summary>
 
 - 📄 SGLang: Efficient Execution of Structured Language Model Programs
 </details>
@@ -327,5 +327,3 @@
 - 📄 GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
 - 📄 AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 </details>
-
-### Diffusion（文生图、文生视频）推理服务
