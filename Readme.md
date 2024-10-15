@@ -48,13 +48,13 @@
 </summary>
 
 - [AI4DB](docs/database/Readme.md#AI4DB)
-- [Database Configuration](docs/database/Readme.md#Database%20Configuration)
-- [Database Design](docs/database/Readme.md#Database%20Design)
-- [Query Optimization](docs/database/Readme.md#Query%20Optimization)
-- [Database Diagnosis](docs/database/Readme.md#Database%20Diagnosis)
-- [Classical Database System](docs/database/Readme.md#Classical%20Database%20System)
+- [Database Configuration](docs/database/Readme.md#Database-Configuration)
+- [Database Design](docs/database/Readme.md#Database-Design)
+- [Query Optimization](docs/database/Readme.md#Query-Optimization)
+- [Database Diagnosis](docs/database/Readme.md#Database-Diagnosis)
+- [Classical Database System](docs/database/Readme.md#Classical-Database-System)
 - [LLM4DB](docs/database/Readme.md#LLM4DB)
-- [Vector database](docs/database/Readme.md#Vector%20database)
+- [Vector database](docs/database/Readme.md#Vector-database)
 </details>
 
 <details open>
@@ -64,18 +64,18 @@
 
 </summary>
 
-- [GNN basics](#docs/graphs/Readme.md#GNN%20basics)
-- [Heterogeneous GNN](#docs/graphs/Readme.md#Heterogeneous%20GNN)
-- [Graph condensation](#docs/graphs/Readme.md#Graph%20condensation)
+- [GNN basics](#docs/graphs/Readme.md#GNN-basics)
+- [Heterogeneous GNN](#docs/graphs/Readme.md#Heterogeneous-GNN)
+- [Graph condensation](#docs/graphs/Readme.md#Graph-condensation)
 - [Homogeneous](#docs/graphs/Readme.md#Homogeneous)
-- [Graph condensation](#docs/graphs/Readme.md#Graph%20condensation)
+- [Graph condensation](#docs/graphs/Readme.md#Graph-condensation)
 - [Heterogeneous](#docs/graphs/Readme.md#Heterogeneous)
-- [Graph Structure Learning](#docs/graphs/Readme.md#Graph%20Structure%20Learning)
-- [Graph Data Augmentation](#docs/graphs/Readme.md#Graph%20Data%20Augmentation)
-- [GNN System](#docs/graphs/Readme.md#GNN%20System)
+- [Graph Structure Learning](#docs/graphs/Readme.md#Graph-Structure-Learning)
+- [Graph Data Augmentation](#docs/graphs/Readme.md#Graph-Data-Augmentation)
+- [GNN System](#docs/graphs/Readme.md#GNN-System)
 - [GNN+LLM](#docs/graphs/Readme.md#GNN+LLM)
-- [GNN 数据标注](#docs/graphs/Readme.md#GNN%20数据标注)
-- [Scalable GNN (GNN Acceleration)](#docs/graphs/Readme.md#Scalable%20GNN%20(GNN%20Acceleration))
+- [GNN 数据标注](#docs/graphs/Readme.md#GNN-数据标注)
+- [Scalable GNN (GNN Acceleration)](#docs/graphs/Readme.md#Scalable-GNN-(GNN-Acceleration))
 </details>
 
 <details open>
@@ -85,7 +85,7 @@
 
 </summary>
 
-- [LLM Agent](docs/aiAgents/Readme.md#LLM%20Agent)
+- [LLM Agent](docs/aiAgents/Readme.md#LLM-Agent)
 </details>
 
 <details open>
@@ -95,12 +95,12 @@
 
 </summary>
 
-- [ML/DL 入门](docs/dcml/Readme.md#ML/DL%20入门)
+- [ML/DL 入门](docs/dcml/Readme.md#ML/DL-入门)
 - [大模型入门](docs/dcml/Readme.md#大模型入门)
 - [强化学习入门](docs/dcml/Readme.md#强化学习入门)
 - [ML数据侧入门+选方向](docs/dcml/Readme.md#ML数据侧入门+选方向)
-- [Multimodal LLM](docs/dcml/Readme.md#Multimodal%20LLM)
-- [Multimodal & Alignment入门+选方向](docs/dcml/Readme.md#Multimodal%20&%20Alignment入门+选方向)
+- [Multimodal LLM](docs/dcml/Readme.md#Multimodal-LLM)
+- [Multimodal & Alignment入门+选方向](docs/dcml/Readme.md#Multimodal-&-Alignment入门+选方向)
 - [RAG](docs/dcml/Readme.md#RAG)
 - [带着思考看论文](docs/dcml/Readme.md#带着思考看论文)
 - [看论文汇报模板](docs/dcml/Readme.md#看论文汇报模板)
@@ -120,7 +120,7 @@
 - [文生视频](docs/diffusion/Readme.md#文生视频)
 - [3D](docs/diffusion/Readme.md#3D)
 - [4D](docs/diffusion/Readme.md#4D)
-- [Graph / molecule](docs/diffusion/Readme.md#Graph%20/%20molecule)
+- [Graph / molecule](docs/diffusion/Readme.md#Graph-/-molecule)
 - [Diffusion（文生图、文生视频）推理服务](docs/diffusion/Readme.md#Diffusion（文生图、文生视频）推理服务)
 </details>
 
