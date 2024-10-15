@@ -124,4 +124,13 @@
 - [Diffusion（文生图、文生视频）推理服务](docs/diffusion/Readme.md#Diffusion（文生图、文生视频）推理服务)
 </details>
 
+## 🧑‍🏫 教程
+
+<details open>
+<summary>
+
+### 如何读好学术论文? [🔗](docs/tutorials/Readme.md)
+
+</summary>
+
 Copyright © 2024 by PKU-DAIR. All rights reserved
