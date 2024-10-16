@@ -28,8 +28,6 @@
 
 如果你之前**没有读过论文/不知道汇报**的时候该怎么样讲，那么可以遵照下面的模板来进行思路的梳理。当然这并不意味着每次都需要把每个点找出来汇报，仅供思路梳理参考。
 
-🎨 [模板PPT](https://wcny4qa9krto.feishu.cn/wiki/KEU1wSNwaiyWNXkeE0FcPNAUnYe#share-JoXtdrSR5oBgPJxuCA1cKlU6nwf)
-
 1. 这篇论文的核心主张是什么？
 2. 您认为这篇论文的哪些方面令人信服？
 3. 您认为哪些方面不太令人信服，您希望作者采取什么措施？
