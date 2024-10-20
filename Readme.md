@@ -14,6 +14,29 @@
 
 本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉AI和机器学习等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
 
+## ✨ 科研入门指南
+
+
+- Be disciplined, persistent, hard working, honest, and creative.
+
+- Be familiar with your research area and read all the relevant papers from top conferences and journals.
+
+- 💭 ["Useful Things to Know About Ph. D. Thesis Research", H.T. Kung.](https://www.eecs.harvard.edu/htk/)
+
+- 📄 [Advice on how to succeed in graduate school", Marie desJardins](https://cuibinpku.github.io/resources/advice.pdf)
+
+- 📄 ["Letter to research students" , Duane Bailey](https://cuibinpku.github.io/resources/research.pdf)
+
+- 📄 ["Efficient Reading of Papers in Science and Technology", Michael J. Hanson](https://cuibinpku.github.io/resources/efficientReading.pdf)
+
+- 📄 ["The Task of the Referee", A. J. Smith](https://cuibinpku.github.io/resources/reviewing-smith.pdf)
+
+- 📄 ["How to do Research At the MIT AI Lab", MIT AI Lab](https://cuibinpku.github.io/resources/MIT-do-research.pdf)
+
+- 📔 ["Crafting Your Research Future", Charles X. Ling and Qiang Yang](https://cuibinpku.github.io/resources/Crafting-Your-Research-Future.pdf)
+
+- 📄 ["The Most Common Habits from English papers written by Chinese students", Felicia Brittman](https://cuibinpku.github.io/resources/chinese-english-problem.pdf)
+
 ## 📑 研究方向
 
 <details open>
