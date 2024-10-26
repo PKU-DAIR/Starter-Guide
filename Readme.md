@@ -36,6 +36,8 @@
 
 - 📄 ["How to do Research At the MIT AI Lab", MIT AI Lab](https://cuibinpku.github.io/resources/MIT-do-research.pdf)
 
+- 🧑‍🏫 [科研入门指南--如何做好科研, 如何写好论文?](docs/tutorials/how_to_do_research.md)
+
 - 🧑‍🏫 [如何读好学术论文?](docs/tutorials/Readme.md)
 
 ## 📑 研究方向
