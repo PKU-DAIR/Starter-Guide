@@ -25,11 +25,10 @@
 
 > Survey
 
-- `⚡` 📄 Diffusion models: A comprehensive survey of methods and applications
-- `⚡` 📄 Denoising diffusion probabilistic models
-- `⚡` 📄 Score-based generative modeling through stochastic differential equations
-- `⚡` 📄 Denoising diffusion implicit models
-- `⚡` 📄 Dpm-solver: A fast ode solver for diffusion probabilistic model sampling in around 10 steps
+- `⚡` 📄 [Diffusion models: A comprehensive survey of methods and applications](https://arxiv.org/abs/2209.00796)
+- `⚡` 📄 [Denoising diffusion probabilistic models](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)
+- `⚡` 📄 [Score-based generative modeling through stochastic differential equations](https://arxiv.org/abs/2011.13456)
+- `⚡` 📄 [Denoising diffusion implicit models](https://arxiv.org/abs/2010.02502)
 
 </details>
 
@@ -42,8 +41,8 @@
 
 > Classifier Guidance
 
-- `⚡` 📄 Diffusion models beat gans on image synthesis
-- `⚡` 📄 Classifier-free diffusion guidance
+- `⚡` 📄 [Diffusion models beat gans on image synthesis](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html)
+- `⚡` 📄 [Classifier-free diffusion guidance](https://arxiv.org/abs/2207.12598)
 
 </details>
 
