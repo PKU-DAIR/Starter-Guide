@@ -147,7 +147,6 @@
 
 入门论文：
 
-- `⚡` 📄+🔧 
 - `⚡` 📄+🔧 https://arxiv.org/abs/2402.03300https://arxiv.org/abs/2402.06332
 - `⚡` 📄+🔧 https://arxiv.org/abs/2405.12209
 
@@ -177,11 +176,11 @@
 另一方面，基于统计信息的大模型无法保证全部正确，因此对于这种基于统计的模型，如何Verify模型的正确性十分重要。
 最后，这可能会引出生成数据的终极形态，就是自我对抗学习，自我生产数据学习，无需再收集训练数据。类似AlphaGO
 
-- `⚡` 📄+🔧 1）大模型的数据生成调研
+1. 大模型的数据生成调研
 - `⚡` 📄+🔧 [生成数据分布、可控数据生成调研](https://wcny4qa9krto.feishu.cn/wiki/CoSywYR6gim7V2kxTTIc73FTnKe?from=from_copylink)
 - `⚡` 📄+🔧 MAGPIE: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
-- `⚡` 📄+🔧 
-- `⚡` 📄+🔧 2）大模型的思考调研
+
+2. 大模型的思考调研
 - `⚡` 📄+🔧 [GPT等大模型思考](https://wcny4qa9krto.feishu.cn/wiki/K8EYw6Woii9bDJkLxLGc6WXQnzg?from=from_copylink)
 
 </details>
@@ -197,22 +196,23 @@
 
 </summary>
 
-- `⚡` 📄+🔧 1）Data Centric AI数据侧开发
-- `⚡` 📄+🔧 主要关注Data Juicer，要求对于数据侧有比较详细的了解
-- `⚡` 📄+🔧 2）Data Centric AI数据侧工具相关的科研
-- `⚡` 📄+🔧 需要对于数据侧工具有一定的了解，阅读相关的论文
-- `⚡` 📄+🔧 附录：数据评估相关论文
-- `⚡` 📄+🔧 Image数据评估论文
+> 1）Data Centric AI数据侧开发，主要关注Data Juicer，要求对于数据侧有比较详细的了解
+> 2）Data Centric AI数据侧工具相关的科研
+需要对于数据侧工具有一定的了解，阅读相关的论文
+附录：数据评估相关论文
+
+1. Image数据评估论文
 - `⚡` 📄+🔧 CLIPScore: A Reference-free Evaluation Metric for Image Captioning
 - `⚡` 📄+🔧 InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation(23.05)
-- `⚡` 📄+🔧 下面两篇是follow-up的新工作
-- `⚡` 📄+🔧 https://arxiv.org/pdf/2406.06004
-- `⚡` 📄+🔧 leverage large multimodal model
-- `⚡` 📄+🔧 https://arxiv.org/pdf/2407.18589
-- `⚡` 📄+🔧 Video数据评估论文
-- `⚡` 📄+🔧 EMScore
+
+2. 下面两篇是follow-up的新工作
+- `⚡` 📄+🔧 [leverage large multimodal model](https://arxiv.org/pdf/2406.06004)
+- `⚡` 📄+🔧 [Video数据评估论文](https://arxiv.org/pdf/2407.18589)
+
+3. EMScore
 - `⚡` 📄+🔧 EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching
-- `⚡` 📄+🔧 PAC-S
+
+4. PAC-S
 - `⚡` 📄+🔧 Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation
 
 > 1）Data Centric AI数据侧开发
