@@ -15,10 +15,6 @@
 
 ### AI4DB
 
-
-### Database Configuration
-
-
 <details open>
 <summary>
 
@@ -29,6 +25,9 @@
 - `⚡` 📄 Database Meets Artificial Intelligence: A Survey
 
 </details>
+
+
+### Database Configuration
 
 <details open>
 <summary>
@@ -42,9 +41,6 @@
 
 </details>
 
-### Database Design
-
-
 <details open>
 <summary>
 
@@ -57,8 +53,7 @@
 
 </details>
 
-### Query Optimization
-
+### Database Design
 
 <details open>
 <summary>
@@ -70,6 +65,8 @@
 - `⚡` 📄 The case for learned index structures
 
 </details>
+
+### Query Optimization
 
 <details open>
 <summary>
@@ -118,9 +115,6 @@
 
 </details>
 
-### Database Diagnosis
-
-
 <details open>
 <summary>
 
@@ -133,8 +127,7 @@
 
 </details>
 
-### classical database system
-
+### Database Diagnosis
 
 <details open>
 <summary>
@@ -149,6 +142,8 @@
 - `⚡` 📄 D-Bot: Database Diagnosis System using Large Language Models.
 
 </details>
+
+### classical database system
 
 <details open>
 <summary>
@@ -277,9 +272,6 @@
 
 </details>
 
-### LLM4DB
-
-
 <details open>
 <summary>
 
@@ -290,6 +282,8 @@
 - `⚡` 📄 Querying Object-oriented Databases
 
 </details>
+
+### LLM4DB
 
 <details open>
 <summary>
@@ -325,9 +319,6 @@
 
 </details>
 
-### Vector database
-
-
 <details open>
 <summary>
 
@@ -338,6 +329,8 @@
 - `💎` 📄 DB-BERT: a Database Tuning Tool that “Reads the Manual”
 
 </details>
+
+### Vector database
 
 <details open>
 <summary>
@@ -351,3 +344,13 @@
 
 </details>
 
+<details open>
+<summary>
+
+##### vector DB system
+
+</summary>
+
+- `💎` 📄 Milvus: A purpose-built vector data management system
+
+</details>

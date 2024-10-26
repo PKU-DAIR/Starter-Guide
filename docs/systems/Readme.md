@@ -40,9 +40,6 @@
 
 </details>
 
-### 分布式训练
-
-
 <details open>
 <summary>
 
@@ -53,6 +50,8 @@
 - `⚡` 🛠️ [PyTorch](https://pytorch.org/)
 
 </details>
+
+### 分布式训练
 
 <details open>
 <summary>
@@ -245,9 +244,6 @@
 
 </details>
 
-### LLM推理服务
-
-
 <details open>
 <summary>
 
@@ -261,6 +257,8 @@
 - `💡` 📄 Whale: Scaling Deep Learning Model Training to the Trillions
 
 </details>
+
+### LLM推理服务
 
 <details open>
 <summary>
@@ -367,9 +365,6 @@
 
 </details>
 
-### Diffusion（文生图、文生视频）推理服务
-
-
 <details open>
 <summary>
 
@@ -382,6 +377,8 @@
 
 </details>
 
+### Diffusion（文生图、文生视频）推理服务
+
 <details open>
 <summary>
 
@@ -392,5 +389,13 @@
 - `⚡` 🛠️ xDiT，https://github.com/xdit-project/xDiT
 - `⚡` 🛠️ VideoSys，https://github.com/NUS-HPC-AI-Lab/VideoSys
 
+</details>
+
+##### 分布式推理
+
+</summary>
+
+- `⚡` 📄 DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
+- `⚡` 📄 PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models
 </details>
 

@@ -128,18 +128,6 @@
 - `⚡` 📄 (RGPE) Scalable Meta-Learning for Bayesian Optimization using Ranking-Weighted Gaussian Process Ensembles
 - `⚡` 📄 (TAF) Scalable Gaussian process-based transfer surrogates for hyperparameter optimization
 
-</details>
-
-### 网络结构搜索(NAS)
-
-
-<details open>
-<summary>
-
-##### 迁移学习
-
-</summary>
-
 - `💎` 📄 Learning Hyperparameter Optimization Initializations
 - `💎` 📄 Hyperparameter Search Space Pruning – A NewComponent for Sequential Model-Based Hyperparameter Optimization
 - `💎` 📄 (POGOE) Scalable Hyperparameter Optimization with Products of Gaussian Process Experts
@@ -147,6 +135,8 @@
 - `💎` 📄 (TransBO) TransBO: Hyperparameter Optimization via Two-Phase Transfer Learning
 
 </details>
+
+### 网络结构搜索(NAS)
 
 <details open>
 <summary>
@@ -194,9 +184,6 @@
 
 </details>
 
-### 模型压缩
-
-
 <details open>
 <summary>
 
@@ -208,6 +195,8 @@
 - `⚡` 📄 Zero-Cost Proxies MeetDifferentiable Architecture Search
 
 </details>
+
+### 模型压缩
 
 <details open>
 <summary>
@@ -243,6 +232,18 @@
 
 - `💎` 📄 Distilling the Knowledge in a Neural Network
 - `💎` 📄 Contrastive Representation Distillation
+
+</details>
+
+<details open>
+<summary>
+
+##### 参数量化基础
+
+</summary>
+
+- `💎` 📄 A Novel Zero Shot Quantization Framework
+- `💎` 📄 Post-Training Sparsity-Aware Quantization.
 
 </details>
 

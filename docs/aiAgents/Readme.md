@@ -13,6 +13,21 @@
 
 > 注:⚡为**基础必读**,💎为**基础选读**,💡为**进阶阅读**
 
+## LLM Agent
+
+<details open>
+<summary>
+
+##### 综述
+
+</summary>
+
+- `⚡` 📄 A Survey on Large Language Model based Autonomous Agents(https://arxiv.org/abs/2308.11432)
+- `⚡` 📄 LLM Powered Autonomous Agents by Lilian Weng (https://lilianweng.github.io/posts/2023-06-23-agent)
+- `⚡` 📄 What's next for AI agentic workflows ft. Andrew Ng(https://youtu.be/sal78ACtGTc?si=i_kTdUFQVHq7rCE0)
+
+</details>
+
 <details open>
 <summary>
 
@@ -72,7 +87,7 @@
 
 > 了解如何评测大模型agent的性能，思考在开放式、交互式、多步骤的应用中，如何构建基于“过程数据”的评测集和训练集
 
-- `⚡` 📄 τ -bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains (https://arxiv.org/abs/2406.12045)
+- `⚡` 📄 τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains (https://arxiv.org/abs/2406.12045)
 - `⚡` 📄 WebArena: A Realistic Web Environment for Building Autonomous Agents https://arxiv.org/abs/2307.13854
 - `💎` 📄 OSWORLDBenchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments（https://arxiv.org/abs/2404.07972）
 - `💎` 📄 Instruction-Following Evaluation for Large Language Models (https://arxiv.org/abs/2311.07911)

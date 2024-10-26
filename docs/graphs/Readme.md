@@ -54,9 +54,6 @@
 
 </details>
 
-### Heterogeneous GNN
-
-
 <details open>
 <summary>
 
@@ -68,6 +65,8 @@
 - `⚡` 🔧 Deep Graph Library: A Graph-Centric, Highly Performant Package for Graph Neural Networks, https://github.com/dmlc/dgl
 
 </details>
+
+### Heterogeneous GNN
 
 <details open>
 <summary>
@@ -117,9 +116,6 @@
 
 </details>
 
-### Graph condensation (Homogeneous)
-
-
 <details open>
 <summary>
 
@@ -134,6 +130,8 @@
 
 </details>
 
+### Graph condensation (Homogeneous)
+
 <details open>
 <summary>
 
@@ -144,6 +142,7 @@
 > training-based
 
 - `⚡` 📄 GRAPH CONDENSATION FOR GRAPH NEURAL NET-WORKS
+- `⚡` 📄 Heterogeneous Graph Condensation
 
 </details>
 
@@ -173,9 +172,6 @@
 
 </details>
 
-### Graph condensation (Heterogeneous)
-
-
 <details open>
 <summary>
 
@@ -187,8 +183,7 @@
 
 </details>
 
-### Graph Structure Learning
-
+### Graph condensation (Heterogeneous)
 
 <details open>
 <summary>
@@ -202,6 +197,8 @@
 - `⚡` 📄 Heterogeneous Graph Condensation
 
 </details>
+
+### Graph Structure Learning
 
 <details open>
 <summary>
@@ -250,9 +247,6 @@
 
 </details>
 
-### Graph Data Augmentation
-
-
 <details open>
 <summary>
 
@@ -263,6 +257,8 @@
 - `💎` 📄 NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification
 
 </details>
+
+### Graph Data Augmentation
 
 <details open>
 <summary>
@@ -320,9 +316,6 @@
 
 </details>
 
-### GNN System
-
-
 <details open>
 <summary>
 
@@ -335,6 +328,8 @@
 - `💎` 📄 G-Mixup: Graph Data Augmentation for Graph Classification
 
 </details>
+
+### GNN System
 
 <details open>
 <summary>
@@ -393,9 +388,6 @@
 
 </details>
 
-### GNN+LLM
-
-
 <details open>
 <summary>
 
@@ -406,6 +398,8 @@
 - `💎` 📄+🛠️ Graphiler Optimizing Graph Neural Networks with Message Passing Data Flow Graph
 
 </details>
+
+### GNN+LLM
 
 <details open>
 <summary>
@@ -514,6 +508,17 @@
 - `💎` 📄 NOSMOG: Learning Noise-robust and Structure-aware MLPs on Graphs
 - `⚡` 📄 DEGREE-QUANT: QUANTIZATION-AWARE TRAINING FOR GRAPH NEURAL NETWORKS
 - `💎` 📄 THE LOTTERY TICKET HYPOTHESIS: FINDING SPARSE, TRAINABLE NEURAL NETWORKS
+
+</details>
+
+<details open>
+<summary>
+
+##### Execution Acceleration
+
+</summary>
+
+- `⚡` 📄 GRAPH CONDENSATION FOR GRAPH NEURAL NET-WORKS
 
 </details>
 
