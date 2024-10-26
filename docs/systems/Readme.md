@@ -50,7 +50,7 @@
 
 </summary>
 
-- `⚡` 🛠️ PyTorch
+- `⚡` 🛠️ [PyTorch](https://pytorch.org/)
 
 </details>
 

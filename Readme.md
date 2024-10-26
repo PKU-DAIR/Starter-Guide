@@ -21,7 +21,10 @@
 
 - Be familiar with your research area and read all the relevant papers from top conferences and journals.
 
-- 💭 ["Useful Things to Know About Ph. D. Thesis Research", H.T. Kung.](https://www.eecs.harvard.edu/htk/)
+- 📔 ["Crafting Your Research Future", Charles X. Ling and Qiang Yang](https://cuibinpku.github.io/resources/Crafting-Your-Research-Future.pdf)
+
+- 📄 ["The Most Common Habits from English papers written by Chinese students", Felicia Brittman](https://cuibinpku.github.io/resources/chinese-english-problem.pdf)
+
 
 - 📄 [Advice on how to succeed in graduate school", Marie desJardins](https://cuibinpku.github.io/resources/advice.pdf)
 
@@ -33,9 +36,7 @@
 
 - 📄 ["How to do Research At the MIT AI Lab", MIT AI Lab](https://cuibinpku.github.io/resources/MIT-do-research.pdf)
 
-- 📔 ["Crafting Your Research Future", Charles X. Ling and Qiang Yang](https://cuibinpku.github.io/resources/Crafting-Your-Research-Future.pdf)
-
-- 📄 ["The Most Common Habits from English papers written by Chinese students", Felicia Brittman](https://cuibinpku.github.io/resources/chinese-english-problem.pdf)
+- 🧑‍🏫 如何读好学术论文? [🔗](docs/tutorials/Readme.md)
 
 ## 📑 研究方向
 
@@ -144,14 +145,5 @@
 - [Graph / molecule](docs/diffusion/Readme.md#Graph-/-molecule)
 - [Diffusion（文生图、文生视频）推理服务](docs/diffusion/Readme.md#Diffusion（文生图、文生视频）推理服务)
 </details>
-
-## 🧑‍🏫 教程
-
-<details open>
-<summary>
-
-### 如何读好学术论文? [🔗](docs/tutorials/Readme.md)
-
-</summary>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved
