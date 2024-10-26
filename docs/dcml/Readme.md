@@ -61,6 +61,9 @@
 - `⚡` 📘 [复旦大学LLM教材](https://intro-llm.github.io/chapter/LLM-TAP.pdf)
 - `⚡` 📘 [DPO、PPO、各自的优势等等](https://arxiv.org/abs/2404.18922)
 
+</details>
+
+<details open>
 <summary>
 
 ##### RLHF
