@@ -55,12 +55,11 @@
 
 > distillation
 
-- `⚡` 📄 progressive distillation
-- `⚡` 📄 consistency model
-- `⚡` 📄 rectified flow
-- `⚡` 📄 instaflow
-- `⚡` 📄 consistency flow matching
-- `⚡` 📄 rectified diffusion
+- `⚡` 📄 [progressive distillation](https://arxiv.org/abs/2202.00512)
+- `⚡` 📄 [consistency model](https://arxiv.org/abs/2303.01469)
+- `⚡` 📄 [rectified flow](https://arxiv.org/abs/2209.03003)
+- `⚡` 📄 [consistency flow matching](https://arxiv.org/abs/2407.02398)
+- `⚡` 📄 [rectified diffusion](https://arxiv.org/abs/2410.07303)
 
 </details>
 
@@ -71,9 +70,12 @@
 
 </summary>
 
-> 重头训练需要大量资源，建议微调
+> 训练需要大量资源
 
-- `⚡` 📄 Stable Diffusion XL/3，DALL-E 2/3，RPG，Omost，IterComp
+- `⚡` 📄 [Stable Diffusion](https://arxiv.org/abs/2112.10752)
+- `⚡` 📄 [DALL-E](https://arxiv.org/abs/2204.06125)
+- `⚡` 📄 [RPG](https://arxiv.org/abs/2401.11708)
+- `⚡` 📄 [IterComp](https://arxiv.org/abs/2410.07171)
 
 </details>
 
@@ -84,9 +86,12 @@
 
 </summary>
 
-> 大厂研发重点，建议微调
+> 训练需要大量资源
 
-- `⚡` 📄 Make-a-Video, VideoCrafter, AnimateDiff, VideoTetris
+- `⚡` 📄 [Make-a-Video](https://arxiv.org/abs/2209.14792)
+- `⚡` 📄 [VideoCrafter](https://arxiv.org/abs/2401.09047)
+- `⚡` 📄 [AnimateDiff](https://arxiv.org/abs/2307.04725)
+- `⚡` 📄 [VideoTetris](https://arxiv.org/abs/2406.04277)
 
 </details>
 
@@ -99,7 +104,11 @@
 
 > 子方向较多，需花较多时间入门
 
-- `⚡` 📄 DreamFusion, 3D Gaussian Splatting, LucidDreamer, GALA3D, Direct3D, SemanticSDS
+- `⚡` 📄 [DreamFusion](https://arxiv.org/abs/2209.14988)
+- `⚡` 📄 [3D Gaussian Splatting](https://arxiv.org/abs/2308.04079)
+- `⚡` 📄 [LucidDreamer](https://arxiv.org/abs/2311.11284)
+- `⚡` 📄 [Direct3D](https://arxiv.org/abs/2405.14832)
+- `⚡` 📄 [SemanticSDS](https://arxiv.org/abs/2410.09009)
 
 </details>
 
@@ -110,9 +119,10 @@
 
 </summary>
 
-> 蓝海方向，结合3D和video
+> 结合3D和video的研究方向, 目前普遍效果较差
 
-- `⚡` 📄 Diffusion4D, Comp4D, Trans4D
+- `⚡` 📄 [Diffusion4D](https://arxiv.org/abs/2405.16645)
+- `⚡` 📄 [Trans4D](https://arxiv.org/abs/2410.07155)
 
 </details>
 
