@@ -52,6 +52,7 @@
 - [ML/DL系统框架](docs/systems/Readme.md#ML/DL系统框架)
 - [分布式训练](docs/systems/Readme.md#分布式训练)
 - [LLM推理服务](docs/systems/Readme.md#LLM推理服务)
+- [Diffusion（文生图、文生视频）推理服务](docs/systems/Readme.md#diffusion文生图文生视频推理服务)
 </details>
 
 <details open>
