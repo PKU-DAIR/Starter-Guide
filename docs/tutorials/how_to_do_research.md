@@ -60,7 +60,7 @@
 #### (3) 如何发现新问题？
 
 <p align="center">
-    <img alt="Static Badge" src="/assets/tutorials/f1.png">
+    <img alt="Static Badge" src="/assets/tutorials/f1.jpg" width="350">
 </p>
 
 <p align="center">
@@ -143,37 +143,39 @@
 
 1. 交代问题背景：图模型里的Message Passing
 
-![alt text](/assets/tutorials/f2.png)
+![alt text](/assets/tutorials/f2.jpg)
 
 
 2. 交代问题的challenge和现有方法缺点
 
-![alt text](/assets/tutorials/f3.png)
+![alt text](/assets/tutorials/f3.jpg)
 
 3. 方法背后的Observation
 
-![alt text](/assets/tutorials/f4.png)
+![alt text](/assets/tutorials/f4.jpg)
 
 4. 基于Observation得到的第一个Insight
 
-![alt text](/assets/tutorials/f5.png)
+![alt text](/assets/tutorials/f5.jpg)
 
 5. 基于Observation得到的第二个Insight
 
-![alt text](/assets/tutorials/f6.png)
+![alt text](/assets/tutorials/f6.jpg)
 
 6. 概括方法和实验结果
 
-![alt text](/assets/tutorials/f7.png)
+![alt text](/assets/tutorials/f7.jpg)
 
 7. 总结贡献
 
-![alt text](/assets/tutorials/f8.png)
+![alt text](/assets/tutorials/f8.jpg)
 
 #### (2) 如何提升语言表达？
 
 1. 逻辑组织：提前设计文章结构模板
 🈲误区：想到哪儿写哪儿
+
+![alt text](/assets/tutorials/f10.png)
 
 2. 细节填充：模仿学习和总结
     1. 打开和待投稿会议相关的3篇文章
@@ -208,7 +210,7 @@
 4. 尽量多引用一些文章，引经据典
 5. 确保结构清晰，回答了所有问题
 
-![alt text](/assets/tutorials/f9.png)
+![alt text](/assets/tutorials/f9.jpg)
 
 4. 新生建议
 
@@ -227,3 +229,5 @@
     5.	不要形成依赖导师的心理，培养独立科研的习惯和能力
     •	导师大部分时候是辅助
     •	学习发现问题、归纳总结和解决问题的思维与能力，终生受益
+
+![alt text](/assets/tutorials/f11.png)
