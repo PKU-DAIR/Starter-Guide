@@ -181,7 +181,7 @@
 
 1. 大模型的数据生成调研
 - `⚡` 📄+🔧 [生成数据分布、可控数据生成调研](https://wcny4qa9krto.feishu.cn/wiki/CoSywYR6gim7V2kxTTIc73FTnKe?from=from_copylink)
-- `⚡` 📄+🔧 MAGPIE: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
+- `⚡` 📄+🔧 [MAGPIE: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
 
 2. 大模型的思考调研
 - `⚡` 📄+🔧 [GPT等大模型思考](https://wcny4qa9krto.feishu.cn/wiki/K8EYw6Woii9bDJkLxLGc6WXQnzg?from=from_copylink)
@@ -205,18 +205,18 @@
 附录：数据评估相关论文
 
 1. Image数据评估论文
-- `⚡` 📄+🔧 CLIPScore: A Reference-free Evaluation Metric for Image Captioning
-- `⚡` 📄+🔧 InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation(23.05)
+- `⚡` 📄+🔧 [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718)
+- `⚡` 📄+🔧 [InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation](https://aclanthology.org/2023.acl-long.178.pdf)
 
-2. 下面两篇是follow-up的新工作
+1. 下面两篇是follow-up的新工作
 - `⚡` 📄+🔧 [leverage large multimodal model](https://arxiv.org/pdf/2406.06004)
 - `⚡` 📄+🔧 [Video数据评估论文](https://arxiv.org/pdf/2407.18589)
 
-3. EMScore
-- `⚡` 📄+🔧 EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching
+1. EMScore
+- `⚡` 📄+🔧 [EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching](https://arxiv.org/abs/2111.08919)
 
-4. PAC-S
-- `⚡` 📄+🔧 Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation
+1. PAC-S
+- `⚡` 📄+🔧 [Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation](https://arxiv.org/abs/2303.12112)
 
 > 1）Data Centric AI数据侧开发
 涉及到数据生成、配比、处理、抽取
