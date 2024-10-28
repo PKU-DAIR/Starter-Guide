@@ -145,8 +145,6 @@
 - [文生视频](docs/diffusion/Readme.md#文生视频)
 - [3D](docs/diffusion/Readme.md#3D)
 - [4D](docs/diffusion/Readme.md#4D)
-- [Graph / molecule](docs/diffusion/Readme.md#Graph-/-molecule)
-- [Diffusion（文生图、文生视频）推理服务](docs/diffusion/Readme.md#Diffusion（文生图、文生视频）推理服务)
 </details>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved
