@@ -22,7 +22,7 @@
 
 </summary>
 
-- `⚡` 📄 Database Meets Artificial Intelligence: A Survey
+- `⚡` 📄 [Database Meets Artificial Intelligence: A Survey](https://ieeexplore.ieee.org/abstract/document/9094012)
 
 </details>
 
