@@ -17,7 +17,7 @@
 <details open>
 <summary>
 
-#### 综述
+#### Survey
 
 </summary>
 
@@ -30,7 +30,7 @@
 <details open>
 <summary>
 
-#### agent planning
+#### Agent planning
 
 </summary>
 
@@ -47,7 +47,7 @@
 <details open>
 <summary>
 
-#### 数据获取和感知
+#### Data acquisition and perception
 
 </summary>
 
