@@ -13,12 +13,11 @@
 
 > 注:⚡为**基础必读**,💎为**基础选读**,💡为**进阶阅读**
 
-### AI Agent
 
 <details open>
 <summary>
 
-##### 综述
+#### 综述
 
 </summary>
 
@@ -31,7 +30,7 @@
 <details open>
 <summary>
 
-##### agent planning
+#### agent planning
 
 </summary>
 
@@ -48,7 +47,7 @@
 <details open>
 <summary>
 
-##### 数据获取和感知
+#### 数据获取和感知
 
 </summary>
 
@@ -65,7 +64,7 @@
 <details open>
 <summary>
 
-##### Actions/tool using
+#### Actions/tool using
 
 </summary>
 
@@ -81,7 +80,7 @@
 <details open>
 <summary>
 
-##### Agent benchmark
+#### Agent benchmark
 
 </summary>
 
