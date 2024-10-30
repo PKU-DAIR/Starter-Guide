@@ -112,7 +112,11 @@
 
 </summary>
 
-- [LLM Agent](docs/aiAgents/Readme.md#LLM-Agent)
+- [LLM/AI Agent](docs/aiAgents/Readme.md#综述)
+- [LLM/AI Agent](docs/aiAgents/Readme.md#agent-planning)
+- [LLM/AI Agent](docs/aiAgents/Readme.md#数据获取和感知)
+- [LLM/AI Agent](docs/aiAgents/Readme.md#Actions/tool-using)
+- [LLM/AI Agent](docs/aiAgents/Readme.md#Agent-benchmark)
 </details>
 
 <details open>
