@@ -142,8 +142,8 @@
 
 </summary>
 
-- `⚡` 📄 Architecture of a database system
-- `⚡` 📄 The Design of the POSTGRES Storage System
+- `⚡` 📄 [Architecture of a database system](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- `⚡` 📄 [The Design of the POSTGRES Storage System](https://dsf.berkeley.edu/papers/ERL-M87-06.pdf)
 
 </details>
 
@@ -154,9 +154,9 @@
 
 </summary>
 
-- `⚡` 📄 The Ubiquitous B-Tree
-- `⚡` 📄 R-Trees: A Dynamic Index Structure for Spatial Searching
-- `⚡` 📄 Improved Query Performance with Variant Indexes
+- `⚡` 📄 [The Ubiquitous B-Tree](https://carlosproal.com/ir/papers/p121-comer.pdf)
+- `⚡` 📄 [R-Trees: A Dynamic Index Structure for Spatial Searching](https://dl.acm.org/doi/10.1145/971697.602266)
+- `⚡` 📄 [Improved Query Performance with Variant Indexes](https://pages.cs.wisc.edu/~nil/764/DADS/36_improved-query-performance-with.pdf)
 
 </details>
 
@@ -167,8 +167,8 @@
 
 </summary>
 
-- `⚡` 📄 C-Store: A Column-oriented DBMS
-- `⚡` 📄 Column-Stores vs. Row-Stores: How Different Are They Really?
+- `⚡` 📄 [C-Store: A Column-oriented DBMS](https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf)
+- `⚡` 📄 [Column-Stores vs. Row-Stores: How Different Are They Really?](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf)
 
 </details>
 
@@ -179,8 +179,8 @@
 
 </summary>
 
-- `⚡` 📄 The 5 minute rule for trading memory for disc accesses and the 10 byte rule for trading memory for CPU time
-- `⚡` 📄 The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb
+- `⚡` 📄 [The 5 minute rule for trading memory for disc accesses and the 10 byte rule for trading memory for CPU time](https://dl.acm.org/doi/10.1145/38714.38755)
+- `⚡` 📄 [The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb](https://www.cs.cmu.edu/~natassa/courses/15-721/papers/gray.pdf)
 
 </details>
 
@@ -191,11 +191,11 @@
 
 </summary>
 
-- `⚡` 📄 Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub-totals
-- `⚡` 📄 Volcano An Extensible And Parallel Query Evaluation System
-- `⚡` 📄 Encapsulation Of Parallelism In The Volcano Query Processing System
-- `⚡` 📄 Query Evaluation Techniques for Large Databases
-- `⚡` 📄 An Overview of Data Warehousing and OLAP Technology
+- `⚡` 📄 [Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub-totals](https://web.stanford.edu/class/cs345d-01/rl/olap.pdf)
+- `⚡` 📄 [Volcano An Extensible And Parallel Query Evaluation System](https://cs-people.bu.edu/mathan/reading-groups/papers-classics/volcano.pdf)
+- `⚡` 📄 [Encapsulation Of Parallelism In The Volcano Query Processing System](https://cs-people.bu.edu/mathan/reading-groups/papers-classics/encapsulation-volcano.pdf)
+- `⚡` 📄 [Query Evaluation Techniques for Large Databases](http://infolab.stanford.edu/~hyunjung/cs346/graefe.pdf)
+- `⚡` 📄 [An Overview of Data Warehousing and OLAP Technology](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigrecord.pdf)
 
 </details>
 
@@ -206,10 +206,10 @@
 
 </summary>
 
-- `⚡` 📄 Rapid Bushy Join-Order Optimization With Cartesian Products. 
-- `⚡` 📄 Access Path Selection in a Relational Database Management System
-- `⚡` 📄 An Overview of Query Optimization in Relational Systems
-- `⚡` 📄 R* Optimizer Validation and Performance Evaluation for Distributed Queries
+- `⚡` 📄 [Rapid Bushy Join-Order Optimization With Cartesian Products](https://dl.acm.org/doi/10.1145/235968.233317)
+- `⚡` 📄 [Access Path Selection in a Relational Database Management System](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf)
+- `⚡` 📄 [An Overview of Query Optimization in Relational Systems](https://web.stanford.edu/class/cs345d-01/rl/chaudhuri98.pdf)
+- `⚡` 📄 [R* Optimizer Validation and Performance Evaluation for Distributed Queries](https://www.seas.upenn.edu/~zives/05s/cis650/papers/r-star.pdf)
 
 </details>
 
@@ -220,8 +220,8 @@
 
 </summary>
 
-- `⚡` 📄 Maintenance of views
-- `⚡` 📄 Efficiently Updating Materialized Views
+- `⚡` 📄 [Maintenance of views](https://dl.acm.org/doi/10.1145/971697.602293)
+- `⚡` 📄 [Efficiently Updating Materialized Views](https://dsf.berkeley.edu/cs286/papers/mvupdate-sigmod1986.pdf)
 
 </details>
 
@@ -232,11 +232,11 @@
 
 </summary>
 
-- `⚡` 📄 On Optimistic Methods for Concurrency Control
-- `⚡` 📄 Efficient Locking for Concurrent Operations on B-Trees
-- `⚡` 📄 Granularity of Locks and Degrees of Consistency in a Shared Data Base
-- `⚡` 📄 A Critique of ANSI SQL Isolation Levels
-- `⚡` 📄 Paxos Made Simple
+- `⚡` 📄 [On Optimistic Methods for Concurrency Control](https://www.eecs.harvard.edu/~htk/publication/1981-tods-kung-robinson.pdf)
+- `⚡` 📄 [Efficient Locking for Concurrent Operations on B-Trees](https://www.csd.uoc.gr/~hy460/pdf/p650-lehman.pdf)
+- `⚡` 📄 [Granularity of Locks and Degrees of Consistency in a Shared Data Base](https://www.cs.cmu.edu/~natassa/courses/15-721/papers/GrayLocks.pdf)
+- `⚡` 📄 [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+- `⚡` 📄 [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 
 </details>
 
@@ -247,7 +247,7 @@
 
 </summary>
 
-- `⚡` 📄 ARIES: A Transaction Recovery Method Supporting Fine Granularity Locking and Partial Rollbacks Using Write Ahead Logging
+- `⚡` 📄 [ARIES: A Transaction Recovery Method Supporting Fine Granularity Locking and Partial Rollbacks Using Write Ahead Logging](https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf)
 
 </details>
 
@@ -258,7 +258,7 @@
 
 </summary>
 
-- `⚡` 📄 Main Memory Database Systems: An Overview
+- `⚡` 📄 [Main Memory Database Systems: An Overview](https://www.cs.cmu.edu/~natassa/courses/15-721/papers/00180602.pdf)
 
 </details>
 
@@ -269,7 +269,7 @@
 
 </summary>
 
-- `⚡` 📄 Querying Object-oriented Databases
+- `⚡` 📄 [Querying Object-oriented Databases](https://www3.cs.stonybrook.edu/~kifer/TechReports/xsql.pdf)
 
 </details>
 
@@ -329,8 +329,8 @@
 
 </summary>
 
-- `⚡` 📄 Survey of Vector Database Management Systems
-- `⚡` 📄 A comprehensive survey on vector database: Storage and retrieval technique, challenge
+- `⚡` 📄 [Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021)
+- `⚡` 📄 [A comprehensive survey on vector database: Storage and retrieval technique, challenge](http://arxiv.org/pdf/2310.11703)
 
 </details>
 
@@ -341,6 +341,6 @@
 
 </summary>
 
-- `💎` 📄 Milvus: A purpose-built vector data management system
+- `💎` 📄 [Milvus: A purpose-built vector data management system](https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD21_Milvus.pdf)
 
 </details>
