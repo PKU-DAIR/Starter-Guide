@@ -112,11 +112,11 @@
 
 </summary>
 
-- [LLM/Survey](docs/aiAgents/Readme.md#Survey)
-- [LLM/Agent Planning](docs/aiAgents/Readme.md#Agent-planning)
-- [LLM/Data Acquisition and Perception](docs/aiAgents/Readme.md#Data-acquisition-and-perception)
-- [LLM/Actions/tool using](docs/aiAgents/Readme.md#Actions/tool-using)
-- [LLM/Agent benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
+- [Survey](docs/aiAgents/Readme.md#Survey)
+- [Agent Planning](docs/aiAgents/Readme.md#Agent-planning)
+- [Data Acquisition and Perception](docs/aiAgents/Readme.md#Data-acquisition-and-perception)
+- [Actions/tool using](docs/aiAgents/Readme.md#Actions/tool-using)
+- [Agent benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
 </details>
 
 <details open>
@@ -139,6 +139,22 @@
 <summary>
 
 ### 扩散模型方向 [🔗](docs/diffusion/Readme.md)
+
+</summary>
+
+- [扩散模型基础](docs/diffusion/Readme.md#扩散模型基础)
+- [条件扩散模型](docs/diffusion/Readme.md#条件扩散模型)
+- [扩散模型加速](docs/diffusion/Readme.md#扩散模型加速)
+- [文生图](docs/diffusion/Readme.md#文生图)
+- [文生视频](docs/diffusion/Readme.md#文生视频)
+- [3D](docs/diffusion/Readme.md#3D)
+- [4D](docs/diffusion/Readme.md#4D)
+</details>
+
+<details open>
+<summary>
+
+### AI for Science方向 [🔗](docs/diffusion/Readme.md)
 
 </summary>
 
