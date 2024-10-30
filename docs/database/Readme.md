@@ -36,8 +36,8 @@
 
 </summary>
 
-- `⚡` 📄 Automatic database management system tuning through large-scale machine learning
-- `⚡` 📄 Facilitating Database Tuning with Hyper-Parameter OptimizationA Comprehensive Experimental Evaluation
+- `⚡` 📄 [Facilitating Database Tuning with Hyper-Parameter OptimizationA Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2110.12654)
+- `⚡` 📄 [Automatic database management system tuning through large-scale machine learning](https://dl.acm.org/doi/pdf/10.1145/3035918.3064029)
 
 </details>
 
@@ -48,8 +48,8 @@
 
 </summary>
 
-- `⚡` 📄 Magic mirror in my hand, which is the best in the land? An Experimental Evaluation of Index Selection Algorithms
-- `⚡` 📄 An efficient, cost-driven index selection tool for Microsoft SQL server
+- `⚡` 📄 [Magic mirror in my hand, which is the best in the land? An Experimental Evaluation of Index Selection Algorithms](https://www.vldb.org/pvldb/vol13/p2382-kossmann.pdf)
+- `⚡` 📄 [An efficient, cost-driven index selection tool for Microsoft SQL server](https://www.vldb.org/conf/1997/P146.PDF)
 
 </details>
 
@@ -62,7 +62,8 @@
 
 </summary>
 
-- `⚡` 📄 The case for learned index structures
+- `⚡` 📄 [The case for learned index structures](https://dl.acm.org/doi/10.1145/3183713.3196909)
+- `⚡` 📄 [ALEX: An Updatable Adaptive Learned Index](https://dl.acm.org/doi/10.1145/3318464.3389711)
 
 </details>
 
@@ -75,9 +76,9 @@
 
 </summary>
 
-- `⚡` 📄 Are We Ready For Learned Cardinality Estimation?
-- `⚡` 📄 Neurocard: One cardinality estimator for all tables
-- `⚡` 📄 ALECE: An Attention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads
+- `⚡` 📄 [Are We Ready For Learned Cardinality Estimation?](https://www.vldb.org/pvldb/vol14/p1640-wang.pdf)
+- `⚡` 📄 [Neurocard: One cardinality estimator for all tables](https://dl.acm.org/doi/10.14778/3421424.3421432)
+- `⚡` 📄 [ALECE: An Attention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads](https://www.vldb.org/pvldb/vol17/p197-li.pdf)
 
 </details>
 
@@ -88,7 +89,7 @@
 
 </summary>
 
-- `⚡` 📄 An End-to-End Learning-based Cost Estimator
+- `⚡` 📄 [An End-to-End Learning-based Cost Estimator](https://www.vldb.org/pvldb/vol13/p307-sun.pdf)
 
 </details>
 
@@ -99,7 +100,7 @@
 
 </summary>
 
-- `💎` 📄 A Learned Query Rewrite System using Monte Carlo Tree Search
+- `💎` 📄 [A Learned Query Rewrite System using Monte Carlo Tree Search](https://www.vldb.org/pvldb/vol15/p46-li.pdf)
 
 </details>
 
@@ -110,22 +111,13 @@
 
 </summary>
 
-- `⚡` 📄 Neo: A Learned query optimizer
-- `⚡` 📄 Bao: Making Learned Query Optimization Practical
+- `⚡` 📄 [Neo: A Learned query optimizer](https://dl.acm.org/doi/10.14778/3342263.3342644)
+- `⚡` 📄 [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/10.1145/3448016.3452838)
 
 </details>
 
 <details open>
 <summary>
-
-##### View Advisor
-
-</summary>
-
-- `⚡` 📄 Selecting subexpressions to materialize at datacenter scale
-- `⚡` 📄 Automatic view generation with deep learning and reinforcement learning
-
-</details>
 
 ### Database Diagnosis
 
@@ -136,14 +128,12 @@
 
 </summary>
 
-- `⚡` 📄 DBPA: A Benchmark for Transactional Database Performance Anomalies.
-- `⚡` 📄 DBSherlock: A Performance Diagnostic Tool for Transactional Databases. 
-- `⚡` 📄 Panda: Performance debugging for databases using LLM agents.
-- `⚡` 📄 D-Bot: Database Diagnosis System using Large Language Models.
-
+- `⚡` 📄 [DBPA: A Benchmark for Transactional Database Performance Anomalies.](https://dl.acm.org/doi/abs/10.1145/3588926)
+- `⚡` 📄 [DBSherlock: A Performance Diagnostic Tool for Transactional Databases.](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2016.pdf)
+  
 </details>
 
-### classical database system
+### Classical database system
 
 <details open>
 <summary>
@@ -292,7 +282,7 @@
 
 </summary>
 
-- `⚡` 📄 How Large Language Models Will Disrupt Data Management
+- `⚡` 📄 [How Large Language Models Will Disrupt Data Management](https://dl.acm.org/doi/abs/10.14778/3611479.3611527)
 
 </details>
 
@@ -303,8 +293,8 @@
 
 </summary>
 
-- `💎` 📄 SEED: Domain-Specific Data Curation With Large Language Models
-- `💎` 📄 Can Foundation Models Wrangle Your Data?
+- `💎` 📄 [SEED: Domain-Specific Data Curation With Large Language Models]()
+- `💎` 📄 [Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
 
 </details>
 
@@ -315,7 +305,7 @@
 
 </summary>
 
-- `💎` 📄 From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management
+- `💎` 📄 [From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management](https://arxiv.org/abs/2306.09339)
 
 </details>
 
@@ -326,7 +316,7 @@
 
 </summary>
 
-- `💎` 📄 DB-BERT: a Database Tuning Tool that “Reads the Manual”
+- `💎` 📄 [DB-BERT: a Database Tuning Tool that “Reads the Manual”](https://dl.acm.org/doi/pdf/10.1145/3514221.3517843)
 
 </details>
 
