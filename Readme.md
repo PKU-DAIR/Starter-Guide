@@ -112,11 +112,11 @@
 
 </summary>
 
-- [LLM/AI Agent](docs/aiAgents/Readme.md#综述)
-- [LLM/AI Agent](docs/aiAgents/Readme.md#agent-planning)
-- [LLM/AI Agent](docs/aiAgents/Readme.md#数据获取和感知)
-- [LLM/AI Agent](docs/aiAgents/Readme.md#Actions/tool-using)
-- [LLM/AI Agent](docs/aiAgents/Readme.md#Agent-benchmark)
+- [LLM/Survey](docs/aiAgents/Readme.md#Survey)
+- [LLM/Agent Planning](docs/aiAgents/Readme.md#Agent-planning)
+- [LLM/Data Acquisition and Perception](docs/aiAgents/Readme.md#Data-acquisition-and-perception)
+- [LLM/Actions/tool using](docs/aiAgents/Readme.md#Actions/tool-using)
+- [LLM/Agent benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
 </details>
 
 <details open>
