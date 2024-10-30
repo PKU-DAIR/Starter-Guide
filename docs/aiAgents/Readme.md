@@ -13,7 +13,7 @@
 
 > 注:⚡为**基础必读**,💎为**基础选读**,💡为**进阶阅读**
 
-### LLM Agent
+### AI Agent
 
 <details open>
 <summary>
