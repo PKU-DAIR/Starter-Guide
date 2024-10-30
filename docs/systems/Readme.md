@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">💻 系统方向</h1>
+    <h1 align="center">💻 AI系统方向</h1>
     <p align="center">入门指南</p>
     <p align="center">
         <a href="https://github.com/PKU-DAIR">

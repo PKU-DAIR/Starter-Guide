@@ -45,7 +45,19 @@
 <details open>
 <summary>
 
-### 系统方向 [🔗](docs/systems/Readme.md)
+### 基础入门 [🔗](docs/beginner/Readme.md)
+
+</summary>
+
+- [ML/DL 入门](docs/beginner/Readme.md#ML/DL-入门)
+- [大模型入门](docs/beginner/Readme.md#大模型入门)
+- [强化学习入门](docs/beginner/Readme.md#强化学习入门)
+</details>
+
+<details open>
+<summary>
+
+### AI系统方向 [🔗](docs/systems/Readme.md)
 
 </summary>
 
@@ -122,13 +134,10 @@
 <details open>
 <summary>
 
-### Data-Centric & LLM方向 [🔗](docs/dcml/Readme.md)
+### Data-Centric ML方向 [🔗](docs/dcml/Readme.md)
 
 </summary>
 
-- [ML/DL 入门](docs/dcml/Readme.md#ML/DL-入门)
-- [大模型入门](docs/dcml/Readme.md#大模型入门)
-- [强化学习入门](docs/dcml/Readme.md#强化学习入门)
 - [ML数据侧入门+选方向](docs/dcml/Readme.md#ML数据侧入门+选方向)
 - [Multimodal LLM](docs/dcml/Readme.md#Multimodal-LLM)
 - [Multimodal & Alignment入门+选方向](docs/dcml/Readme.md#Multimodal-&-Alignment入门+选方向)
