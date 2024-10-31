@@ -13,8 +13,7 @@
 
 > 注:⚡为**基础必读**,💎为**基础选读**,💡为**进阶阅读**
 
-### ML/DL系统框架
-
+### AI基础入门
 
 <details open>
 <summary>
@@ -30,6 +29,8 @@
 - `⚡` 📦 [复旦大学LLM教材](https://intro-llm.github.io/chapter/LLM-TAP.pdf)
 
 </details>
+
+### ML/DL系统框架
 
 <details open>
 <summary>
