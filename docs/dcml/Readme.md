@@ -29,8 +29,7 @@
 > 课程难度不大，但是涵盖了很多 DCAI 的 Topic，包括但不限于：Data Selection/Data Cleaning/Distribution Shift/Data Curation 等，每节课都有一个配套的实验，完成难度也不大，完成后可以对该topic有一个比较 general 的认识
 - `⚡` 🗞️ [华盛顿大学 DCAI](https://koh.pw/cse599j/)
 
-<details open>
-<summary>
+
 
 ### 多模态大模型数据侧
 
@@ -43,6 +42,8 @@
 
 ##### ImageLLMs
 
+</summary>
+
 - `⚡` 💭 [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
 - `⚡` 💭 [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592)
 - `⚡` 💭 [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
@@ -53,11 +54,13 @@
 
 ##### VideoLLMs
 
-- `⚡` 💭 https://arxiv.org/abs/2308.12966
-- `⚡` 💭 https://arxiv.org/abs/2306.02858
-- `⚡` 💭 https://arxiv.org/abs/2311.10122
-- `⚡` 💭 https://arxiv.org/abs/2311.17005
-- `⚡` 💭 https://arxiv.org/abs/2403.15377
+</summary>
+
+- `⚡` 💭 [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966)
+- `⚡` 💭 [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
+- `⚡` 💭 [Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122)
+- `⚡` 💭 [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/abs/2311.17005)
+- `⚡` 💭 [InternVideo2: Scaling Foundation Models for Multimodal Video Understanding](https://arxiv.org/abs/2403.15377)
 
 > 可能有帮助的[文档](https://docs.google.com/document/d/13iqTmfJZVt8Mk3yt9icXQq_Nvbkf99PGIKJaKJBb_2c/edit?usp=sharing)
 
@@ -65,6 +68,8 @@
 <summary>
 
 ##### Data-Centric VLMs（主要是数据的选择、增强(recaption)，比如重写caption）
+</summary>
+
 - `⚡` 💭 [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
 - `⚡` 💭 [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/abs/2311.06607)
 - `⚡` 💭 [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/abs/2311.12793)
@@ -82,6 +87,7 @@
 <summary>
 
 ##### MathLLMs
+</summary>
 
 - `⚡` 📄+🔧 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 - `⚡` 📄+🔧 [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://arxiv.org/abs/2402.06332)
@@ -92,14 +98,14 @@
 
 ##### Math Datasets：
 
+</summary>
+
 - `⚡` 📄+🔧 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 - `⚡` 📄+🔧 [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://arxiv.org/abs/2402.06332)
 
 > 数学知识按照难度分为小学，初中，高中和大学。大学又有很多细分，比如数学分析，高等代数以及概率论与数理统计，最优化方法，数值分析等等目前观察到的现象是说，无论是否是Math的模型，在SFT之后高中和大学数学能力都会大幅度下降，说明数据集的构建不利于高中和大学数学能力的学习
 
 ### Data Centric Tools
-
-</summary>
 
 > 1）Data Centric AI数据侧开发，主要关注Data Juicer，要求对于数据侧有比较详细的了解
 > 2）Data Centric AI数据侧工具相关的科研
@@ -110,6 +116,9 @@
 <summary>
 
 ##### Image数据评估论文
+
+</summary>
+
 - `⚡` 📄+🔧 [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718)
 - `⚡` 📄+🔧 [InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation](https://aclanthology.org/2023.acl-long.178.pdf)
 
@@ -140,12 +149,11 @@
 <summary>
 
 ##### Vision-Language Model Visual Information Extraction
+</summary>
 
 **1）主流的VLM普遍使用CLIP-ViT作为Vision Encoder，通过对比学习训练的视觉编码器无法提取细粒度的图像特征，单纯增加图像分辨率对输入窗口影响过大，因此不同VE的融合（比如DINO，SigLip等）与选择是必要的。**
 
 **2）当前的高分辨率VLLM将图像编码为高分辨率的visual token，计算成本过大。如何选择特定的、问题相关的高分辨率视觉特征，设计灵活高效的注意力机制是必要的。**
-
-</summary>
 
 - `⚡` 📄+🔧 [BRAVE: Broadening the visual encoding of vision-language models](https://brave-vlms.epfl.ch/)
 - `⚡` 📄+🔧 [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)
