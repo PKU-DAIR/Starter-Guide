@@ -87,11 +87,11 @@
 
 </summary>
 
-- [Survey](docs/aiAgents/Readme.md#Survey)
-- [Agent Planning](docs/aiAgents/Readme.md#Agent-planning)
-- [Data Acquisition and Perception](docs/aiAgents/Readme.md#Data-acquisition-and-perception)
-- [Actions/tool using](docs/aiAgents/Readme.md#Actions/tool-using)
-- [Agent benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
+- [综述](docs/aiAgents/Readme.md#Survey)
+- [Agent规划](docs/aiAgents/Readme.md#Agent-planning)
+- [数据获取与感知](docs/aiAgents/Readme.md#Data-acquisition-and-perception)
+- [执行与工具使用](docs/aiAgents/Readme.md#Actions/tool-using)
+- [Benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
 </details>
 
 <details open>
@@ -127,8 +127,10 @@
 
 </summary>
 
+- [综述](docs/science/Readme.md#Survey)
 - [蛋白质建模](docs/science/Readme.md#Protein)
 - [小分子建模](docs/science/Readme.md#Small-molecule)
+- [DNA/RNA/Cell](docs/science/Readme.md#DNA/RNA/Cell)
 </details>
 
 <details open>
