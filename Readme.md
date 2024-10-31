@@ -163,17 +163,14 @@
 <details open>
 <summary>
 
-### AI for Science方向 [🔗](docs/diffusion/Readme.md)
+### AI for Science方向 [🔗](docs/science/Readme.md)
 
 </summary>
 
-- [扩散模型基础](docs/diffusion/Readme.md#扩散模型基础)
-- [条件扩散模型](docs/diffusion/Readme.md#条件扩散模型)
-- [扩散模型加速](docs/diffusion/Readme.md#扩散模型加速)
-- [文生图](docs/diffusion/Readme.md#文生图)
-- [文生视频](docs/diffusion/Readme.md#文生视频)
-- [3D](docs/diffusion/Readme.md#3D)
-- [4D](docs/diffusion/Readme.md#4D)
+- [蛋白质](docs/science/Readme.md#Protein)
+- [小分子](docs/science/Readme.md#Small-molecule)
+- [其他](docs/science/Readme.md)
+
 </details>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved
