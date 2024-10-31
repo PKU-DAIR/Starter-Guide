@@ -131,12 +131,9 @@
 </summary>
 
 - [扩散模型基础](docs/diffusion/Readme.md#扩散模型基础)
-- [条件扩散模型](docs/diffusion/Readme.md#条件扩散模型)
 - [扩散模型加速](docs/diffusion/Readme.md#扩散模型加速)
-- [文生图](docs/diffusion/Readme.md#文生图)
-- [文生视频](docs/diffusion/Readme.md#文生视频)
-- [3D](docs/diffusion/Readme.md#3D)
-- [4D](docs/diffusion/Readme.md#4D)
+- [文生图/视频](docs/diffusion/Readme.md#文生图/视频)
+- [3D/4D生成](docs/diffusion/Readme.md#3D/4D生成)
 </details>
 
 <details open>
