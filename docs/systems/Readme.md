@@ -18,7 +18,7 @@
 <details open>
 <summary>
 
-##### AI基础入门
+##### ML/DL、AIGC大模型基础
 
 </summary>
 
