@@ -75,13 +75,8 @@
 
 </summary>
 
-- [AI4DB](docs/database/Readme.md#AI4DB)
-- [Database Configuration](docs/database/Readme.md#Database-Configuration)
-- [Database Design](docs/database/Readme.md#Database-Design)
-- [Query Optimization](docs/database/Readme.md#Query-Optimization)
-- [Database Diagnosis](docs/database/Readme.md#Database-Diagnosis)
 - [Classical Database System](docs/database/Readme.md#Classical-Database-System)
-- [LLM4DB](docs/database/Readme.md#LLM4DB)
+- [AI4DB](docs/database/Readme.md#AI4DB)
 - [Vector database](docs/database/Readme.md#Vector-database)
 </details>
 
