@@ -88,27 +88,6 @@
 <details open>
 <summary>
 
-### Graph方向 [🔗](docs/graphs/Readme.md)
-
-</summary>
-
-- [GNN basics](docs/graphs/Readme.md#GNN-basics)
-- [Heterogeneous GNN](docs/graphs/Readme.md#Heterogeneous-GNN)
-- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
-- [Homogeneous](docs/graphs/Readme.md#Homogeneous)
-- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
-- [Heterogeneous](docs/graphs/Readme.md#Heterogeneous)
-- [Graph Structure Learning](docs/graphs/Readme.md#Graph-Structure-Learning)
-- [Graph Data Augmentation](docs/graphs/Readme.md#Graph-Data-Augmentation)
-- [GNN System](docs/graphs/Readme.md#GNN-System)
-- [GNN+LLM](docs/graphs/Readme.md#GNN+LLM)
-- [GNN 数据标注](docs/graphs/Readme.md#GNN-数据标注)
-- [Scalable GNN (GNN Acceleration)](docs/graphs/Readme.md#Scalable-GNN-(GNN-Acceleration))
-</details>
-
-<details open>
-<summary>
-
 ### AI Agent方向 [🔗](docs/aiAgents/Readme.md)
 
 </summary>
@@ -163,6 +142,27 @@
 - [文生视频](docs/diffusion/Readme.md#文生视频)
 - [3D](docs/diffusion/Readme.md#3D)
 - [4D](docs/diffusion/Readme.md#4D)
+</details>
+
+<details open>
+<summary>
+
+### Graph方向 [🔗](docs/graphs/Readme.md)
+
+</summary>
+
+- [GNN basics](docs/graphs/Readme.md#GNN-basics)
+- [Heterogeneous GNN](docs/graphs/Readme.md#Heterogeneous-GNN)
+- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
+- [Homogeneous](docs/graphs/Readme.md#Homogeneous)
+- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
+- [Heterogeneous](docs/graphs/Readme.md#Heterogeneous)
+- [Graph Structure Learning](docs/graphs/Readme.md#Graph-Structure-Learning)
+- [Graph Data Augmentation](docs/graphs/Readme.md#Graph-Data-Augmentation)
+- [GNN System](docs/graphs/Readme.md#GNN-System)
+- [GNN+LLM](docs/graphs/Readme.md#GNN+LLM)
+- [GNN 数据标注](docs/graphs/Readme.md#GNN-数据标注)
+- [Scalable GNN (GNN Acceleration)](docs/graphs/Readme.md#Scalable-GNN-(GNN-Acceleration))
 </details>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved
