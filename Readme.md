@@ -12,7 +12,7 @@
     </p>
 </p>
 
-本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉AI和机器学习等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
+本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM)和人工智能(Artificial Intelligence, AI)等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
 
 ## ✨ 科研入门指南
 
@@ -45,22 +45,11 @@
 <details open>
 <summary>
 
-### 基础入门 [🔗](docs/beginner/Readme.md)
-
-</summary>
-
-- [ML/DL 入门](docs/beginner/Readme.md#ML/DL-入门)
-- [大模型入门](docs/beginner/Readme.md#大模型入门)
-- [强化学习入门](docs/beginner/Readme.md#强化学习入门)
-</details>
-
-<details open>
-<summary>
-
 ### AI系统方向 [🔗](docs/systems/Readme.md)
 
 </summary>
 
+- [AI基础入门](docs/systems/Readme.md#AI基础入门)
 - [ML/DL系统框架](docs/systems/Readme.md#ML/DL系统框架)
 - [分布式训练](docs/systems/Readme.md#分布式训练)
 - [LLM推理服务](docs/systems/Readme.md#LLM推理服务)
@@ -163,14 +152,17 @@
 <details open>
 <summary>
 
-### AI for Science方向 [🔗](docs/science/Readme.md)
+### AI for Science方向 [🔗](docs/diffusion/Readme.md)
 
 </summary>
 
-- [蛋白质](docs/science/Readme.md#Protein)
-- [小分子](docs/science/Readme.md#Small-molecule)
-- [其他](docs/science/Readme.md)
-
+- [扩散模型基础](docs/diffusion/Readme.md#扩散模型基础)
+- [条件扩散模型](docs/diffusion/Readme.md#条件扩散模型)
+- [扩散模型加速](docs/diffusion/Readme.md#扩散模型加速)
+- [文生图](docs/diffusion/Readme.md#文生图)
+- [文生视频](docs/diffusion/Readme.md#文生视频)
+- [3D](docs/diffusion/Readme.md#3D)
+- [4D](docs/diffusion/Readme.md#4D)
 </details>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved

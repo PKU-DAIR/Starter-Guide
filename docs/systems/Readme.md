@@ -19,6 +19,21 @@
 <details open>
 <summary>
 
+##### AI基础入门
+
+</summary>
+
+> 面向之前没有 ML/DL、AIGC大模型 相关基础的同学
+
+- `⚡` 📔 [李宏毅机器学习](https://www.bilibili.com/video/BV1Wv411h7kN/?share_source=copy_web&vd_source=f5a7a6bc8935280a6ac3bbea7f7740eb)
+- `⚡` 📔 [动手学深度学习](https://zh.d2l.ai/)
+- `⚡` 📦 [复旦大学LLM教材](https://intro-llm.github.io/chapter/LLM-TAP.pdf)
+
+</details>
+
+<details open>
+<summary>
+
 ##### ML/DL系统基础
 
 </summary>
