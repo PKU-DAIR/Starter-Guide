@@ -140,18 +140,12 @@
 
 </summary>
 
-- [GNN basics](docs/graphs/Readme.md#GNN-basics)
-- [Heterogeneous GNN](docs/graphs/Readme.md#Heterogeneous-GNN)
-- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
-- [Homogeneous](docs/graphs/Readme.md#Homogeneous)
-- [Graph condensation](docs/graphs/Readme.md#Graph-condensation)
-- [Heterogeneous](docs/graphs/Readme.md#Heterogeneous)
-- [Graph Structure Learning](docs/graphs/Readme.md#Graph-Structure-Learning)
-- [Graph Data Augmentation](docs/graphs/Readme.md#Graph-Data-Augmentation)
-- [GNN System](docs/graphs/Readme.md#GNN-System)
-- [GNN+LLM](docs/graphs/Readme.md#GNN+LLM)
-- [GNN 数据标注](docs/graphs/Readme.md#GNN-数据标注)
-- [Scalable GNN (GNN Acceleration)](docs/graphs/Readme.md#Scalable-GNN-(GNN-Acceleration))
+- [GNN基础](docs/graphs/Readme.md#GNN基础)
+- [异构图GNN](docs/graphs/Readme.md#异构图GNN)
+- [以数据为中心的图学习](docs/graphs/Readme.md#以数据为中心的图学习)
+- [GNN加速](docs/graphs/Readme.md#GNN加速)
+- [GNN与LLM结合](docs/graphs/Readme.md#GNN与LLM结合)
+
 </details>
 
 Copyright © 2024 by PKU-DAIR. All rights reserved
