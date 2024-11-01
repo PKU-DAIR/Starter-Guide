@@ -40,6 +40,7 @@
 - `⚡` 📄 Understanding the planning of LLM agents: A survey (https://arxiv.org/pdf/2402.02716)
 - `⚡` 📄 ReAct: Synergizing Reasoning and Acting in Language Models(https://arxiv.org/abs/2210.03629)
 - `💎` 📄 Tree of Thoughts: Deliberate Problem Solving with Large Language Models(https://arxiv.org/abs/2305.10601)
+- `💎` 📄 Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models (https://arxiv.org/abs/2406.04271)
 - `💎` 📄 Reflexion: Language Agents with Verbal Reinforcement Learning(https://arxiv.org/abs/2303.11366)
 
 </details>
@@ -55,6 +56,7 @@
 
 - `⚡` 📄+💭 Retrieval-Augmented Generation for AI-Generated Content: A Survey (https://arxiv.org/pdf/2402.19473)
 - `⚡` 📄+💭 What is a Vector Database & How Does it Work? Use Cases + Examples (https://www.pinecone.io/learn/vector-database/)
+- `⚡` 📄+💭 Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining (https://arxiv.org/abs/2410.08102)
 - `⚡` 📄+💭 CLIP: Connecting text and images by OpenAI (https://openai.com/index/clip/)
 - `⚡` 📄+💭 qdrant https://github.com/qdrant/qdrant
 - `💎` 📄+💭 GraphRAG https://github.com/microsoft/graphrag
