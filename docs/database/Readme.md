@@ -179,6 +179,8 @@
 
 - `⚡` 📄 [Facilitating Database Tuning with Hyper-Parameter OptimizationA Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2110.12654)
 - `⚡` 📄 [Automatic database management system tuning through large-scale machine learning](https://dl.acm.org/doi/pdf/10.1145/3035918.3064029)
+- `💎` 📄 [Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/pdf/2203.14473)
+- `💎` 📄 [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://vldb.org/pvldb/vol17/p1939-tang.pdf)
 
 </details>
 
@@ -286,6 +288,7 @@
 
 - `⚡` 📄 [How Large Language Models Will Disrupt Data Management](https://dl.acm.org/doi/abs/10.14778/3611479.3611527)
 
+
 </details>
 
 <details open>
@@ -295,6 +298,7 @@
 
 </summary>
 
+- `⚡` 📄 [CHORUS: Foundation Models for Unified Data Discovery and Exploration](https://arxiv.org/pdf/2306.09610)
 - `💎` 📄 [SEED: Domain-Specific Data Curation With Large Language Models]()
 - `💎` 📄 [Can Foundation Models Wrangle Your Data?](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf)
 
@@ -308,6 +312,8 @@
 </summary>
 
 - `💎` 📄 [From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management](https://arxiv.org/abs/2306.09339)
+- `💎` 📄 [Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation](https://arxiv.org/abs/2308.15363)
+- `💎` 📄 [CodeS: Towards Building Open-source Language Models for Text-to-SQL](https://dl.acm.org/doi/10.1145/3654930)
 
 </details>
 
@@ -319,6 +325,8 @@
 </summary>
 
 - `💎` 📄 [DB-BERT: a Database Tuning Tool that “Reads the Manual”](https://dl.acm.org/doi/pdf/10.1145/3514221.3517843)
+- `💎` 📄 [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://vldb.org/pvldb/vol17/p1939-tang.pdf)
+
 
 </details>
 
