@@ -29,13 +29,21 @@
 > 课程难度不大，但是涵盖了很多 DCAI 的 Topic，包括但不限于：Data Selection/Data Cleaning/Distribution Shift/Data Curation 等，每节课都有一个配套的实验，完成难度也不大，完成后可以对该topic有一个比较 general 的认识
 - `⚡` 🗞️ [华盛顿大学 DCAI](https://koh.pw/cse599j/)
 
+</details>
 
+### LLM and VLM Basic
 
-### 多模态大模型数据侧
+<details open>
+<summary>
 
-**多模态大模型主要分为VideoLLM和ImageLLM。这里主要研究image, video的数据生成选择**
+##### Quick Start
 
-- `⚡` 💭 [多模态大模型入门文档](https://wcny4qa9krto.feishu.cn/wiki/Lyq9wNeovivXpbkwaNVcebrCnnb?from=from_copylink)
+</summary>
+
+- `⚡` 📄+🔧 [多模态大模型入门文档](https://wcny4qa9krto.feishu.cn/wiki/Lyq9wNeovivXpbkwaNVcebrCnnb)
+- `⚡` 📄 [Survey](https://arxiv.org/pdf/2306.13549)
+
+</details>
 
 <details open>
 <summary>
@@ -48,6 +56,8 @@
 - `⚡` 💭 [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592)
 - `⚡` 💭 [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
 - `⚡` 💭 [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)
+
+</details>
 
 <details open>
 <summary>
@@ -64,6 +74,8 @@
 
 > 可能有帮助的[文档](https://docs.google.com/document/d/13iqTmfJZVt8Mk3yt9icXQq_Nvbkf99PGIKJaKJBb_2c/edit?usp=sharing)
 
+</details>
+
 <details open>
 <summary>
 
@@ -77,72 +89,6 @@
 - `⚡` 💭 [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/abs/2311.17005)
 - `⚡` 💭 [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/abs/2404.03413)
 > 见这些论文使用的数据，同时这三个论文的模型和数据量可以训练，其余模型训练不出来（Datasets）
-
-
-### Data-Centric AI4Math
-
-**大模型展现了强大的语言能力。但是数学能力仍有待加强，特别是计算能力。Data-Centric AI4Math主要是研究使用数据生成、选择、配比的方式加强模型的数学能力，探究数据对于模型数学能力的影响。**
-
-<details open>
-<summary>
-
-##### MathLLMs
-</summary>
-
-- `⚡` 📄+🔧 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
-- `⚡` 📄+🔧 [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://arxiv.org/abs/2402.06332)
-- `⚡` 📄+🔧 [MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark](https://arxiv.org/abs/2405.12209)
-
-<details open>
-<summary>
-
-##### Math Datasets：
-
-</summary>
-
-- `⚡` 📄+🔧 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
-- `⚡` 📄+🔧 [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://arxiv.org/abs/2402.06332)
-
-> 数学知识按照难度分为小学，初中，高中和大学。大学又有很多细分，比如数学分析，高等代数以及概率论与数理统计，最优化方法，数值分析等等目前观察到的现象是说，无论是否是Math的模型，在SFT之后高中和大学数学能力都会大幅度下降，说明数据集的构建不利于高中和大学数学能力的学习
-
-### Data Centric Tools
-
-> 1）Data Centric AI数据侧开发，主要关注Data Juicer，要求对于数据侧有比较详细的了解
-> 2）Data Centric AI数据侧工具相关的科研
-需要对于数据侧工具有一定的了解，阅读相关的论文
-附录：数据评估相关论文
-
-<details open>
-<summary>
-
-##### Image数据评估论文
-
-</summary>
-
-- `⚡` 📄+🔧 [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718)
-- `⚡` 📄+🔧 [InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation](https://aclanthology.org/2023.acl-long.178.pdf)
-
-下面是follow-up的新工作
-- `⚡` 📄+🔧 [leverage large multimodal model](https://arxiv.org/pdf/2406.06004)
-- `⚡` 📄+🔧 [Video数据评估论文](https://arxiv.org/pdf/2407.18589)
-
-- `⚡` 📄+🔧 [EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching](https://arxiv.org/abs/2111.08919)
-
-- `⚡` 📄+🔧 [Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation](https://arxiv.org/abs/2303.12112)
-
-
-### Multimodal LLM
-
-<details open>
-<summary>
-
-##### MLLM Basic
-
-</summary>
-
-- `⚡` 📄+🔧 [参考多模态大模型入门文档](https://wcny4qa9krto.feishu.cn/wiki/Lyq9wNeovivXpbkwaNVcebrCnnb)
-- `⚡` 📄 Survey: https://arxiv.org/pdf/2306.13549
-
 </details>
 
 <details open>
@@ -170,12 +116,10 @@
 <summary>
 
 ##### Modality Alignment
-
+</summary>
 **1）在当前的X-to-T多模态理解模型中，通常使用简单的模块(如MLP)作为跨模态表示的桥梁，但这些方法往往因为简单的空间映射导致不同模态的表征之间产生偏差，从而影响模型的推理和生成。**
 
 **2）设计更复杂且高效的跨模态对齐机制，尤其是在不同模态间的对齐机制上进行优化是必要的。**
-
-</summary>
 
 - `⚡` 📄+🔧 https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models?tab=readme-ov-file
 - `⚡` 📄+🔧 https://arxiv.org/pdf/2408.05211
@@ -188,9 +132,110 @@
 
 </details>
 
+<details open>
+<summary>
+
+### Data Centric LLM and VLM Algorithms
+
+- `⚡` 💭 [A Survey of Multimodal Large Language Model from A Data-centric Perspective](https://arxiv.org/abs/2405.16640)
+
+<details open>
+<summary>
+
+##### Data Processing
+</summary>
+
+</details>
+
+<details open>
+<summary>
+
+
+##### Data Evaluation
+</summary>
+
+- `⚡` 💭 [Awesome Data Evaluation](https://github.com/Open-DataFlow/Open-DataFlow-Eval/blob/main/Awesome_Data_Evaluation.md)
+  
+</details>
+
+<details open>
+<summary>
+
+##### Data Generation
+</summary>
+
+- `⚡` 💭 [Comprehensive Exploration of Synthetic Data Generation: A Survey](https://arxiv.org/abs/2401.02524)
+-  `⚡` 💭 [On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey](https://arxiv.org/abs/2406.15126)
+  
+</details>
+
+<details open>
+<summary>
+
+##### Data Extraction(RAG)
+</summary>
+
+- `⚡` 💭 [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://arxiv.org/abs/2402.19473)
+- `⚡` 💭 [GraphRAG](https://github.com/microsoft/graphrag)
+- `⚡` 💭 [Raptor](https://arxiv.org/abs/2401.18059v1)
+- `⚡` 💭 [QAEncoder: Towards Aligned Representation Learning in Question Answering System](https://arxiv.org/abs/2409.20434)
+
+</details>
+
+### Data Centric LLM and VLM Systems
+> 1）Data Centric AI数据侧开发，主要关注Data Juicer，要求对于数据侧有比较详细的了解
+> 2）Data Centric AI数据侧工具相关的科研
+需要对于数据侧工具有一定的了解，阅读相关的论文
+附录：数据评估相关论文
+
+<details open>
+<summary>
+
+##### Image数据评估论文
+
+</summary>
+
+- `⚡` 📄+🔧 [CLIPScore: A Reference-free Evaluation Metric for Image Captioning](https://arxiv.org/abs/2104.08718)
+- `⚡` 📄+🔧 [InfoMetIC: An Informative Metric for Reference-free Image Caption Evaluation](https://aclanthology.org/2023.acl-long.178.pdf)
+- `⚡` 📄+🔧 [leverage large multimodal model](https://arxiv.org/pdf/2406.06004)
+- `⚡` 📄+🔧 [Video数据评估论文](https://arxiv.org/pdf/2407.18589)
+
+- `⚡` 📄+🔧 [EMScore: Evaluating Video Captioning via Coarse-Grained and Fine-Grained Embedding Matching](https://arxiv.org/abs/2111.08919)
+
+- `⚡` 📄+🔧 [Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation](https://arxiv.org/abs/2303.12112)
+
+</details>
+
+
+### Data-Centric Domain-Specific LLMs
 
 
 
 
+**大模型展现了强大的语言能力。但是数学能力仍有待加强，特别是计算能力。Data-Centric AI4Math主要是研究使用数据生成、选择、配比的方式加强模型的数学能力，探究数据对于模型数学能力的影响。**
 
+<details open>
+<summary>
 
+##### MathLLMs
+</summary>
+
+- `⚡` 📄+🔧 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- `⚡` 📄+🔧 [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://arxiv.org/abs/2402.06332)
+- `⚡` 📄+🔧 [MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark](https://arxiv.org/abs/2405.12209)
+
+</details>
+
+<details open>
+<summary>
+
+##### Math Datasets：
+
+</summary>
+
+- `⚡` 📄+🔧 [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+- `⚡` 📄+🔧 [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://arxiv.org/abs/2402.06332)
+
+> 数学知识按照难度分为小学，初中，高中和大学。大学又有很多细分，比如数学分析，高等代数以及概率论与数理统计，最优化方法，数值分析等等目前观察到的现象是说，无论是否是Math的模型，在SFT之后高中和大学数学能力都会大幅度下降，说明数据集的构建不利于高中和大学数学能力的学习
+
+</details>
