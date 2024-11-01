@@ -117,6 +117,7 @@
 
 ##### Modality Alignment
 </summary>
+
 **1）在当前的X-to-T多模态理解模型中，通常使用简单的模块(如MLP)作为跨模态表示的桥梁，但这些方法往往因为简单的空间映射导致不同模态的表征之间产生偏差，从而影响模型的推理和生成。**
 
 **2）设计更复杂且高效的跨模态对齐机制，尤其是在不同模态间的对齐机制上进行优化是必要的。**
@@ -131,9 +132,6 @@
 > 3. 跨模态间交互的可解释性
 
 </details>
-
-<details open>
-<summary>
 
 ### Data Centric LLM and VLM Algorithms
 
@@ -208,12 +206,6 @@
 
 
 ### Data-Centric Domain-Specific LLMs
-
-
-
-
-**大模型展现了强大的语言能力。但是数学能力仍有待加强，特别是计算能力。Data-Centric AI4Math主要是研究使用数据生成、选择、配比的方式加强模型的数学能力，探究数据对于模型数学能力的影响。**
-
 <details open>
 <summary>
 
