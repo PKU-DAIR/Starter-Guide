@@ -143,6 +143,11 @@
 ##### Data Processing
 </summary>
 
+- `⚡` 💭 [LLM-Enhanced Data Management](https://arxiv.org/abs/2402.02643)
+- `⚡` 💭 [Scaling Laws for Data Filtering -- Data Curation cannot be Computed](https://openaccess.thecvf.com/content/CVPR2024/html/Goyal_Scaling_Laws_for_Data_Filtering--_Data_Curation_cannot_be_Compute_CVPR_2024_paper.html)
+- `⚡` 💭 [LLM as Dataset Analyst: Subpopulation Structure Discovery with Large Language Model](https://arxiv.org/abs/2405.02363)
+- `⚡` 💭 [Improving CLIP Training with Language Rewrites](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6fa4d985e7c434002fb6289ab9b2d654-Abstract-Conference.html)
+
 </details>
 
 <details open>
