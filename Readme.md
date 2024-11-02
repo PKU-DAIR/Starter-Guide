@@ -12,7 +12,7 @@
     </p>
 </p>
 
-本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM)和人工智能(Artificial Intelligence, AI)等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
+本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的**核心论文**和**经验分享**，将帮助初学者快速熟悉**数据管理(Data Management, DM)** 和 **人工智能(Artificial Intelligence, AI)** 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
 
 ## ✨ 科研入门指南
 
@@ -24,7 +24,6 @@
 - 📔 ["Crafting Your Research Future", Charles X. Ling and Qiang Yang](https://cuibinpku.github.io/resources/Crafting-Your-Research-Future.pdf)
 
 - 📄 ["The Most Common Habits from English papers written by Chinese students", Felicia Brittman](https://cuibinpku.github.io/resources/chinese-english-problem.pdf)
-
 
 - 📄 [Advice on how to succeed in graduate school", Marie desJardins](https://cuibinpku.github.io/resources/advice.pdf)
 
@@ -66,6 +65,7 @@
 - [AutoML与超参数优化](docs/autoML/Readme.md#AutoML与超参数优化)
 - [网络结构搜索(NAS)](docs/autoML/Readme.md#网络结构搜索(NAS))
 - [模型压缩](docs/autoML/Readme.md#模型压缩)
+- [大语言模型与AutoML](docs/autoML/Readme.md#大语言模型与AutoML)
 </details>
 
 <details open>
@@ -77,7 +77,7 @@
 
 - [Classical Database System](docs/database/Readme.md#Classical-Database-System)
 - [AI4DB](docs/database/Readme.md#AI4DB)
-- [Vector database](docs/database/Readme.md#Vector-database)
+- [Vector database](docs/database/Readme.md#Vector-Database)
 </details>
 
 <details open>
@@ -91,7 +91,7 @@
 - [Agent规划](docs/aiAgents/Readme.md#Agent-planning)
 - [数据获取与感知](docs/aiAgents/Readme.md#Data-acquisition-and-perception)
 - [执行与工具使用](docs/aiAgents/Readme.md#Actions/tool-using)
-- [Benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
+- [Agent Benchmark](docs/aiAgents/Readme.md#Agent-benchmark)
 </details>
 
 <details open>
@@ -101,10 +101,11 @@
 
 </summary>
 
-- [ML数据侧入门+选方向](docs/dcml/Readme.md#ML数据侧入门+选方向)
-- [Multimodal LLM](docs/dcml/Readme.md#Multimodal-LLM)
-- [Multimodal & Alignment入门+选方向](docs/dcml/Readme.md#Multimodal-&-Alignment入门+选方向)
-- [RAG](docs/dcml/Readme.md#RAG)
+- [Data Centric ML Basic](docs/dcml/Readme.md#Data-Centric-ML-Basic)
+- [LLM and VLM Basic](docs/dcml/Readme.md#LLM-and-VLM-Basic)
+- [Data Centric LLM and VLM Algorithms](docs/dcml/Readme.md#Data-Centric-LLM-and-VLM-Algorithms)
+- [Data Centric LLM and VLM Systems](docs/dcml/Readme.md#Data-Centric-LLM-and-VLM-Systems)
+- [Data-Centric Domain-Specific LLMs](docs/dcml/Readme.md#Data-Centric-Domain-Specific-LLMs)
 </details>
 
 <details open>

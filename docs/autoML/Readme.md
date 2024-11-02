@@ -36,7 +36,7 @@
 
 > 先通过阅读专栏了解贝叶斯优化和高斯过程的基本原理，然后阅读两篇论文了解SMBO的经典方法
 
-- `⚡` 📄 (BO & GP) https://zhuanlan.zhihu.com/p/139605200
+- `⚡` 📄 [(BO & GP)](https://zhuanlan.zhihu.com/p/139605200)
 - `⚡` 📄 (SMAC) [Sequential Model-Based Optimization for General Algorithm Configuration (extended version)](https://ai.dmi.unibas.ch/research/reading_group/hutter-et-al-tr2010.pdf)
 - `⚡` 📄 (TPE) [Algorithms for Hyper-Parameter Optimization](https://proceedings.neurips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html)
 
@@ -52,7 +52,7 @@
 > 通过openbox自己搭建SMBO的基本流程
 阅读openbox源代码，了解其内部实现
 
-- `⚡` 🛠️ openbox:  https://github.com/PKU-DAIR/open-box
+- `⚡` 🛠️ [Openbox](https://github.com/PKU-DAIR/open-box)
 
 </details>
 

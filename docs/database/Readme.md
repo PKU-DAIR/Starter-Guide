@@ -13,7 +13,7 @@
 
 > 注:⚡为**基础必读**,💎为**基础选读**,💡为**进阶阅读**
 
-### Classical database system
+### Classical Database System
 
 <details open>
 <summary>
@@ -330,7 +330,7 @@
 
 </details>
 
-### Vector database
+### Vector Database
 
 <details open>
 <summary>
