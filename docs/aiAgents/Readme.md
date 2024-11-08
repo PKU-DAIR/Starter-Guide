@@ -39,6 +39,7 @@
 - `⚡` 📄[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - `⚡` 📄[Understanding the planning of LLM agents: A survey](https://arxiv.org/pdf/2402.02716)
 - `⚡` 📄[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+- `⚡` 📄[Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
 - `💎` 📄[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 - `💎` 📄[Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271)
 - `💎` 📄[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)
