@@ -149,4 +149,4 @@
 
 </details>
 
-Copyright © 2024 by PKU-DAIR. All rights reserved
+Copyright © 2025 by PKU-DAIR. All rights reserved
