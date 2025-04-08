@@ -83,6 +83,8 @@
 
 </summary>
 
+- `⚡` 📔 [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+
 > 介绍分布式训练的blog post有很多，可以上网搜索其他相关内容进行初步了解，有一定基础知识储备后再看这两篇综述会更合适
 
 - `💎` 📄 [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941)
